@@ -110,7 +110,7 @@ const TodoList = ({todos = [], setTodos}) => {
 
     return <div>
         <div className="mb-2 mt-4">
-            Incomplete Todos: ({incompleteTodos.length})
+            Uncompleted Todos: ({incompleteTodos.length})
         </div>
         <ListGroup>
             <ListGroup.Item>
