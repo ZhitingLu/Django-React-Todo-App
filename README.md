@@ -23,7 +23,7 @@ A simple Todo App built with Django and React.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Django-React-Todo-App.git
+   git clone https://github.com/ZhitingLu/Django-React-Todo-App.git
 
 2. Navigate to the project directory:
    
